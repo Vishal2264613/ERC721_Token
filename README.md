@@ -7,7 +7,7 @@ Welcome to the MyERC721Token repository! This project features a smart contract 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Deployment](#usage)
+- [Deployment](#Deployment)
 
 ## Introduction
 
